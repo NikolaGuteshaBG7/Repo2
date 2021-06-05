@@ -1,2 +1,2 @@
 Readme bla bla bla
-IZMENA 1
+IZMENA na grani 1
